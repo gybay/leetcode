@@ -10,3 +10,5 @@ This Repository contains following Leetcode solution (Each Java file indicates a
 236 - Lowest Common Ancestor of a Binary Tree
 
 725 - Split Linked List in Parts
+
+268 - Missing Number
